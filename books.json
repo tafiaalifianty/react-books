@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "title": "Agile Web Development with Rails",
+      "price": 109.95,
+      "description": "Sam Ruby, Dave Thomas, David Heinemeier Hansson",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.9, "count": 120 }
+    },
+    {
+      "id": 2,
+      "title": "Book about Go",
+      "price": 100.75,
+      "description": "Dave",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.0, "count": 50 }
+    },
+    {
+      "id": 3,
+      "title": "Learn Javascript",
+      "price": 150.95,
+      "description": "John",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.1, "count": 115 }
+    },
+    {
+      "id": 4,
+      "title": "Mobile Development with React Native",
+      "price": 90.15,
+      "description": "Steve",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 5.0, "count": 115 }
+    },
+    {
+      "id": 5,
+      "title": "Android Oreo",
+      "price": 99.99,
+      "description": "David",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.9, "count": 79 }
+    },
+    {
+      "id": 6,
+      "title": "Mastering Java Spring",
+      "price": 109.95,
+      "description": "Sam",
+      "category": "Backend",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 4.5, "count": 190 }
+    },
+    {
+      "id": 7,
+      "title": "Learn Laravel by Projects",
+      "price": 75.12,
+      "description": "Tom",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 4.0, "count": 250 }
+    },
+    {
+      "id": 8,
+      "title": "API Integration Pattern",
+      "price": 88.15,
+      "description": "Fisher",
+      "category": "Backend",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 4.5, "count": 85 }
+    },
+    {
+      "id": 9,
+      "title": "Develop API with ExpressJS",
+      "price": 109.95,
+      "description": "Rick",
+      "category": "Backend",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.2, "count": 140 }
+    },
+    {
+      "id": 10,
+      "title": "Develop API with Go Gin",
+      "price": 79.95,
+      "description": "Ruby",
+      "category": "Backend",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.4, "count": 120 }
+    },
+    {
+      "id": 11,
+      "title": "Ruby on Rails",
+      "price": 79.95,
+      "description": "Stan",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 4.2, "count": 135 }
+    },
+    {
+      "id": 12,
+      "title": "Intro to ReactJS",
+      "price": 109.95,
+      "description": "Max",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 4.6, "count": 120 }
+    },
+    {
+      "id": 13,
+      "title": "Websocket with NodeJS",
+      "price": 109.95,
+      "description": "Sam Thomas",
+      "category": "Backend",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.9, "count": 120 }
+    },
+    {
+      "id": 14,
+      "title": "Develop API with Java",
+      "price": 109.95,
+      "description": "Jim",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.9, "count": 120 }
+    },
+    {
+      "id": 15,
+      "title": "Java Sprint Boot",
+      "price": 109.95,
+      "description": "David",
+      "category": "Backend",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.2, "count": 120 }
+    },
+    {
+      "id": 16,
+      "title": "HTML, CSS and JS Intro",
+      "price": 109.95,
+      "description": "Hans",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.9, "count": 120 }
+    },
+    {
+      "id": 17,
+      "title": "Wordpress Development",
+      "price": 110.1,
+      "description": "Thomas",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 3.9, "count": 120 }
+    },
+    {
+      "id": 18,
+      "title": "Bootstrap 5",
+      "price": 109.95,
+      "description": "David",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 4.7, "count": 110 }
+    },
+    {
+      "id": 19,
+      "title": "Learn CSS by Examples",
+      "price": 109.95,
+      "description": "Dave Thomas",
+      "category": "Web development",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 5.0, "count": 120 }
+    },
+    {
+      "id": 20,
+      "title": "Mastering Design Pattern with Go",
+      "price": 120.1,
+      "description": "Sam",
+      "category": "Backend",
+      "image": "https://images.examples.com/wp-content/uploads/2019/01/Fantasy-Book-Cover-Template.jpg",
+      "rating": { "rate": 4.8, "count": 120 }
+    }
+  ]
+  

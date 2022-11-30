@@ -1,0 +1,13 @@
+form.search-bar {
+    border: none;
+    padding: 0;
+}
+
+input.search-bar{
+    width: 260px;
+    border: 1px solid #555;
+    border-radius: 10px;
+    display: block;
+    padding: 8px 2px 8px 40px;
+    background: transparent url('../../assets/icon/search.png') no-repeat 13px center;
+}
